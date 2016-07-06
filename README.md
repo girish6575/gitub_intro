@@ -1,2 +1,1 @@
-# gitub_intro
-intro
+gitubu training tutorial First commit 
